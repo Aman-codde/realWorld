@@ -125,5 +125,11 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6b63108d-06bf-476f-ad04-59e02f18a9d7",
+    "schematicCollections": [
+      "@ngrx/schematics"
+    ]
   }
 }
